@@ -1,3 +1,4 @@
 # wiki
 Knowledge Repo
-[Entry page](./wiki)
+
+[Entry page](https://github.com/fkwai/wiki/wiki)
